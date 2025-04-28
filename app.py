@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # Set these after deployment
-VERIFICATION_TOKEN = os.getenv(Littleofeverything8179_eBay_Token12345)
+VERIFICATION_TOKEN = os.getenv(v^1.1#i^1#p^3#I^3#r^1#f^0#t^Ul4xMF81OjVCODlDQUM1MzQ3OUVGRDRGQ0Y2QUY5MUQ5RkFBOTAwXzFfMSNFXjEyODQ=)
 ENDPOINT_URL = os.getenv("ENDPOINT_URL", "https://yourrenderurl.onrender.com/ebay-deletion-notifications")
 
 @app.route("/ebay-deletion-notifications", methods=["GET"])
