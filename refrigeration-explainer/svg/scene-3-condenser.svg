@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <title>Condenser: heat escapes, gas turns to liquid</title>
+  <g fill="none" stroke="#000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M110 420 H200  V160 A30 30 0 0 1 260 160 V420 A30 30 0 0 0 320 420 V160 A30 30 0 0 1 380 160 V420 A30 30 0 0 0 440 420 V160 A30 30 0 0 1 500 160 V420 A30 30 0 0 0 560 420 V160 A30 30 0 0 1 620 160 V420 H690"/>
+    <path d="M290 115 q-12 -12 0 -24 t0 -24 t0 -24 t0 -24"/>
+    <path d="M410 115 q-12 -12 0 -24 t0 -24 t0 -24 t0 -24"/>
+    <path d="M530 115 q-12 -12 0 -24 t0 -24 t0 -24 t0 -24"/>
+    <path d="M735 375 C735 375 760 410 760 422 A25 25 0 0 1 710 422 C710 410 735 375 735 375 Z"/>
+  </g>
+</svg>

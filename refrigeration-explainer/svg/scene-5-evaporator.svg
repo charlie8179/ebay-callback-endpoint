@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <title>Evaporator: soaks up heat, boils back to gas</title>
+  <g fill="none" stroke="#000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M200 80 H600 V440 H200 Z"/>
+    <path d="M260 220 V120 A20 20 0 0 1 300 120 V220 A20 20 0 0 0 340 220 V120 A20 20 0 0 1 380 120 V220 A20 20 0 0 0 420 220 V120 A20 20 0 0 1 460 120 V220 A20 20 0 0 0 500 220 V120 A20 20 0 0 1 540 120 V220"/>
+    <path d="M290 395 H470 Q460 435 380 435 Q300 435 290 395 Z"/>
+    <path d="M340 375 q-12 -12 0 -24 t0 -24 t0 -24 t0 -24"/>
+    <path d="M328 272 L340 252 L352 272"/>
+    <path d="M380 375 q-12 -12 0 -24 t0 -24 t0 -24 t0 -24"/>
+    <path d="M368 272 L380 252 L392 272"/>
+    <path d="M420 375 q-12 -12 0 -24 t0 -24 t0 -24 t0 -24"/>
+    <path d="M408 272 L420 252 L432 272"/>
+  </g>
+</svg>

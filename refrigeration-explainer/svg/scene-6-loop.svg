@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <title>Squeeze, release, expand, absorb. Repeat.</title>
+  <g fill="none" stroke="#000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M375 55 H425 V105 H375 Z"/>
+    <path d="M375 78 H425"/>
+    <path d="M400 78 V35"/>
+    <path d="M458.1 90.3 A170 170 0 0 1 559.7 191.9"/>
+    <path d="M540.7 177.5 L559.7 191.9 L565.1 168.6"/>
+    <path d="M555 220 L585 232 L555 244 L585 256 L555 268 L585 280"/>
+    <path d="M559.7 308.1 A170 170 0 0 1 458.1 409.7"/>
+    <path d="M472.5 390.7 L458.1 409.7 L481.4 415.1"/>
+    <path d="M365 400 L435 440 V400 L365 440 Z"/>
+    <path d="M341.9 409.7 A170 170 0 0 1 240.3 308.1"/>
+    <path d="M259.3 322.5 L240.3 308.1 L234.9 331.4"/>
+    <path d="M230 215 V285"/>
+    <path d="M200 232 L260 268"/>
+    <path d="M200 268 L260 232"/>
+    <path d="M240.3 191.9 A170 170 0 0 1 341.9 90.3"/>
+    <path d="M327.5 109.3 L341.9 90.3 L318.6 84.9"/>
+  </g>
+</svg>

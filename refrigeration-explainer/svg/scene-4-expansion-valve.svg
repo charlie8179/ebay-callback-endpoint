@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <title>Expansion valve: pressure drops, it gets icy cold</title>
+  <g fill="none" stroke="#000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 190 H320 L380 235 H420 L480 190 H720"/>
+    <path d="M80 310 H320 L380 265 H420 L480 310 H720"/>
+    <path d="M120 250 H240"/>
+    <path d="M218 234 L244 250 L218 266"/>
+    <path d="M465 228 L495 216"/>
+    <path d="M475 250 L510 250"/>
+    <path d="M465 272 L495 284"/>
+    <path d="M630 212 V288"/>
+    <path d="M597 231 L663 269"/>
+    <path d="M597 269 L663 231"/>
+  </g>
+</svg>
