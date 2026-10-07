@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <title>Compressor: squeeze the gas, it gets hot</title>
+  <g fill="none" stroke="#000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 120 V420 H500 V120"/>
+    <path d="M310 220 H490 V250 H310 Z"/>
+    <path d="M400 220 V70"/>
+    <path d="M340 70 H460"/>
+    <path d="M240 90 V200"/>
+    <path d="M222 178 L240 204 L258 178"/>
+    <path d="M333 300 a12 12 0 1 0 24 0 a12 12 0 1 0 -24 0"/>
+    <path d="M393 290 a12 12 0 1 0 24 0 a12 12 0 1 0 -24 0"/>
+    <path d="M448 305 a12 12 0 1 0 24 0 a12 12 0 1 0 -24 0"/>
+    <path d="M353 365 a12 12 0 1 0 24 0 a12 12 0 1 0 -24 0"/>
+    <path d="M418 355 a12 12 0 1 0 24 0 a12 12 0 1 0 -24 0"/>
+    <path d="M388 398 a12 12 0 1 0 24 0 a12 12 0 1 0 -24 0"/>
+    <path d="M530 300 q15 -14 30 0 t30 0 t30 0"/>
+    <path d="M530 360 q15 -14 30 0 t30 0 t30 0"/>
+  </g>
+</svg>

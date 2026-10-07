@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <title>A fridge moves heat out</title>
+  <g fill="none" stroke="#000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 60 H460 Q480 60 480 80 V440 Q480 460 460 460 H300 Q280 460 280 440 V80 Q280 60 300 60 Z"/>
+    <path d="M280 190 H480"/>
+    <path d="M455 110 V160"/>
+    <path d="M455 230 V320"/>
+    <path d="M380 330 V400"/>
+    <path d="M350 348 L410 382"/>
+    <path d="M350 382 L410 348"/>
+    <path d="M510 200 q20 -18 40 0 t40 0 t40 0 t40 0"/>
+    <path d="M655 186 L675 200 L655 214"/>
+    <path d="M510 260 q20 -18 40 0 t40 0 t40 0 t40 0"/>
+    <path d="M655 246 L675 260 L655 274"/>
+    <path d="M510 320 q20 -18 40 0 t40 0 t40 0 t40 0"/>
+    <path d="M655 306 L675 320 L655 334"/>
+  </g>
+</svg>
