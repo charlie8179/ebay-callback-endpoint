@@ -1,0 +1,14 @@
+{
+  "name": "refrigeration-motion",
+  "private": true,
+  "scripts": {
+    "voiceover": "node scripts/make-voiceover.js",
+    "check": "node scripts/check-flow.js",
+    "frames": "node scripts/render-frames.js",
+    "sheet": "bash scripts/contact-sheet.sh",
+    "stitch": "bash scripts/stitch.sh"
+  },
+  "devDependencies": {
+    "playwright": "1.56"
+  }
+}

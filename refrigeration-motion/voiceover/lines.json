@@ -1,0 +1,7 @@
+[
+  { "beat": "overview",     "text": "A refrigerator is a closed loop. One refrigerant travels round and round, picking up heat inside and dumping it outside." },
+  { "beat": "compression",  "text": "The compressor squeezes cool, low-pressure vapor into a hot, high-pressure gas, like a bike pump warming up as you push." },
+  { "beat": "condensation", "text": "In the condenser, the gas is hotter than the room, so heat flows out. It cools and condenses into a liquid." },
+  { "beat": "expansion",    "text": "The liquid is forced through a narrow expansion valve. Pressure drops suddenly, and its temperature plunges below freezing." },
+  { "beat": "evaporation",  "text": "Now colder than the food, it absorbs heat in the evaporator and boils back into vapor, ready for the compressor again." }
+]
